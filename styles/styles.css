@@ -1,0 +1,104 @@
+.full-head {
+    width: 900pxpx;
+height: 200px;
+padding: 800px;
+flex-shrink: 0;
+background: rgba(229, 84, 115, 0.10);
+color:#E55473;
+display: flex;
+justify-content: space-between;
+
+
+}
+.text {
+    text-align: justify;
+}
+.mid-text {
+    width: 1920px;
+height: 4867px;
+text-align: center;
+
+}
+.head-image{
+    width: 100px;
+    height: 800px;
+    flex-shrink: 0;
+    justify-content: flex-end;
+    
+}
+.style-pic {
+     display: flex;
+     justify-content: space-evenly;
+     align-items: center;
+     
+}
+.a{width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    color:#A72162 ;
+
+}
+.b{width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    color:#A72162 ;
+
+}
+.c{ 
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    color:#A72162 ;
+
+}
+
+
+
+
+.flower-heading{color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+
+
+}
+.flower-p {color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    
+    
+
+}
+.flower-b{color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    
+
+}
+.head-image {
+    width: 635px;
+    height: 800px;
+    flex-shrink: 0;
+    display: flex;
+}
+.rectangular {
+    display: flex;
+    justify-content: center;
+    width: 100px;
+    height:50px;
+    padding: 60px;
+}
